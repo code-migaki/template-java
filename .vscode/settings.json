@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "redhat.java",
+    "files.insertFinalNewline": true,
+    "files.eol": "\n",
+    "chat.disableAIFeatures": true
+}
